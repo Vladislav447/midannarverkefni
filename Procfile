@@ -1,1 +1,1 @@
-web: python VefMidannar.py
+web: python VefMidannar.py $PORT
